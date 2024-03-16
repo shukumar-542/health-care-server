@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\shukumar\\webDevelopment\\L2B2\\HealthCare-Server\\logs\\winston\\successes\\.f07184a49232876f5eac1aaa7713b9ffa6647832-audit.json",
+    "files": [
+        {
+            "date": 1710560261883,
+            "name": "C:\\Users\\shukumar\\webDevelopment\\L2B2\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-16-03-09-success.log",
+            "hash": "11863684bbab90f4d28e3d9d7e71d343b29b08fa3f27e040edc64aa506345197"
+        },
+        {
+            "date": 1710564193894,
+            "name": "C:\\Users\\shukumar\\webDevelopment\\L2B2\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-16-03-10-success.log",
+            "hash": "587dd2562bd5ecb505b88ec5e5d12cf519ea472d2b53f069c7c8ff98af04ecbc"
+        }
+    ],
+    "hashType": "sha256"
+}
